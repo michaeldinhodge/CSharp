@@ -1,0 +1,13 @@
+/Users/michaelhodge/Projects/Form1/Form1/obj/Debug/Form1.csproj.CoreCompileInputs.cache
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Form1.exe
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Form1.pdb
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Spire.Doc.dll
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Spire.License.dll
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Spire.Pdf.dll
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Spire.Doc.xml
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Spire.License.xml
+/Users/michaelhodge/Projects/Form1/Form1/bin/Debug/Spire.Pdf.xml
+/Users/michaelhodge/Projects/Form1/Form1/obj/Debug/Form1.csproj.CopyComplete
+/Users/michaelhodge/Projects/Form1/Form1/obj/Debug/Form1.exe
+/Users/michaelhodge/Projects/Form1/Form1/obj/Debug/Form1.pdb
+/Users/michaelhodge/Projects/Form1/Form1/obj/Debug/Form1.csprojAssemblyReference.cache
